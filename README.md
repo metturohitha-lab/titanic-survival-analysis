@@ -103,14 +103,12 @@ The Titanic dataset is publicly available via:
 
 **Rohitha Mettu** 
  Python | EDA | Data Visualization  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/rohitha-m-00582731a/) • [GitHub](https://github.com/metturohitha-lab?tab=repositories)
 
 ---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-=======
-# titanic-survival-analysis
-Exploratory Data Analysis on Titanic dataset using Python
->>>>>>> fb29a5fe6dd4c4b1adc4073b23d158d6f1a41767
+
+
