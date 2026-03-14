@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚢 Titanic Survival Analysis
 
 An end-to-end **Exploratory Data Analysis (EDA)** project on the Titanic dataset, uncovering the demographic and socio-economic factors that influenced passenger survival.
@@ -109,3 +110,7 @@ The Titanic dataset is publicly available via:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# titanic-survival-analysis
+Exploratory Data Analysis on Titanic dataset using Python
+>>>>>>> fb29a5fe6dd4c4b1adc4073b23d158d6f1a41767
